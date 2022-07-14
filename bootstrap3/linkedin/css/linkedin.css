@@ -1,0 +1,27 @@
+.menutext {
+    
+   
+    font-family:sans-serif ;
+    font-size: 16px;
+    font-weight: 100;
+  }
+
+  .buttonstil{
+    border-top: 1px solid;
+    border-left:1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid; 
+    border-radius:50px
+    
+  }
+
+  .aside-buttons>li {
+    margin-bottom: 10px;
+
+
+  }
+
+  .texttype{
+    font-size: 11px;
+    color:grey;
+  }
